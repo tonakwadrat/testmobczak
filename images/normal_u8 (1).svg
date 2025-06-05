@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="71" viewBox="0 0 42 71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #04305f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 10px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Kształt_1" data-name="Kształt 1" class="cls-1" d="M36,6L6,35,36,65"/>
+</svg>
